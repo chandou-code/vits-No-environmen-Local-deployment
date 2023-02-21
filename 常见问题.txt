@@ -1,0 +1,7 @@
+首次打开exe需要选择重新加载文档
+
+如果遇到闪退的情况 说明你没有下载tts.txt
+
+如果遇到全部下载完成以后没有合并所有音频，说明你没有安装ffmpeg并配置环境变量 
+
+【安装ffmpeg并配置环境变量】 https://www.bilibili.com/video/BV1xf4y1Z7pV/?share_source=copy_web&vd_source=0f565141707b217660017910522b7023
