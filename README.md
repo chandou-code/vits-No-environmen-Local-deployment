@@ -1,5 +1,7 @@
 # vits-No-environmen-Local-deployment
 
+旧接口已经废了，加群 群文件最新版 691432604 
+
 v1.3更新内容：
 1.修复继续下载bug
 2.添加日语长音声合成
